@@ -4,12 +4,8 @@
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=honk&weight=900&size=25&pause=532&color=49C0F7&background=98FAFF00&center=true&vCenter=true&random=false&width=616&height=133&lines=Hellow+DevOps+%7C+DevSecOps+%7C+AWS+Passionat" alt="Typing SVG" /></a>
-
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=honk&weight=900&size=25&pause=532&color=49C0F7&background=98FAFF00&center=true&vCenter=true&random=false&width=616&height=133&lines=I'm++Naresh+Your+AWS-DevOps-Consultant" alt="Typing SVG" /></a>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=honk&weight=900&size=25&pause=532&color=49C0F7&background=98FAFF00&center=true&vCenter=true&random=false&width=616&height=133&lines=Lets+Collaborate+and+Design" alt="Typing SVG" /></a>
-
 
 </p>
 
