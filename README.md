@@ -2,7 +2,9 @@
   <a href="https://github.com/naresh9000">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Naresh" /></a>
 </p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=honk&weight=600&size=25&pause=532&color=49C0F7&background=98FAFF00&center=true&vCenter=true&multiline=true&random=false&width=504&height=138&lines=xxxxxxxHellow+DevOps+%7C+DevSecOps+%7C+AWS+Passionates;I'm++Naresh+Your+AWS+DevOps+Consultant;Lets+Collaborate+and+Design" alt="Typing SVG" /></a>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=honk&weight=600&size=25&pause=532&color=49C0F7&background=98FAFF00&center=true&vCenter=true&multiline=true&random=false&width=616&height=138&lines=Hellow+DevOps+%7C+DevSecOps+%7C+AWS+Passionat;This+is+Naresh+Your+AWS-DevOps-Consultant;Lets+Collaborate+and+Design" alt="Typing SVG" /></a>
+
 
 </p>
 
